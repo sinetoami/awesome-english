@@ -14,6 +14,7 @@ Please read the [contributing guidelines](contributing.md) if you wish to contri
   - [YouTube](#youtube)
   - [Live TV Channels](#live-tv-channels)
   - [TV Talk Shows](#tv-talk-shows)
+  - [Tech Shows](#tech-shows)
 - [Speaking](#speaking)
   - [Language Exchange Websites](#language-exchange-websites)
   - [Speaking Lessons](#speaking-lessons)
@@ -47,7 +48,6 @@ Listen podcasts anytime and anywhere to improve your listening skill. Podcasts o
 
 The collection of podcasts about technologies.
 
-- [The CultCast](https://www.cultofmac.com/cultcast/) - The official podcast of Cult of Mac. It's the best 30-minute Apple conversation you'll hear all week long.
 - [MageTalk](https://magetalk.com/) - This is a great show with the latest news around Magento ecosystem, community and eCommerce.
 - [Talk Python To Me](https://talkpython.fm/) - A podcast on Python and related technologies.
 - [The PHP Roundtable](https://www.phproundtable.com/) - The PHP Roundtable is a podcast of web developers discussing PHP, JavaScript, community, open source.
@@ -61,6 +61,18 @@ Online radio stations is one of the best and most effective ways to improve your
 - [Fox News Talk](http://tunein.com/radio/FOX-News-Talk-s20431/) - News New York radio station.
 - [WNYC](http://www.wnyc.org/) - Public radio stations located in New York City.
 - [BBC London](http://www.bbc.co.uk/bbclondon) - News and talks radio station from London.
+- [LBC - London Broadcasting Company](https://www.lbc.co.uk) - Independent news/talk radio station in London.
+- [WBAP 820AM - Dallas, Texas](http://www.wbap.com/listenlive/) - News/talk radio station in Dallas, Texas.
+- [KRLA 870AM - Los Angeles, California](https://am870theanswer.com) - News/talk radio station in Los Angeles, California.
+- [KTRH 740AM - Houston, Texas](https://ktrh.iheart.com) - News/talk radio station in Houston, Texas.
+- [KJCE 1370AM - Austin, Texas](https://talk1370.radio.com) - News/talk radio station in Austin, Texas.
+- [KRLD 1080AM - Dallas, Texas](https://krld.radio.com) - News/talk radio station in Dallas, Texas.
+- [KGO 810AM - San Francisco, California](http://www.kgoradio.com) - News/talk radio station in San Francisco, California.
+- [WOR 710AM - New York, New York](https://710wor.iheart.com) - News/talk radio station in New York, New York.
+- [Bloomberg Radio](https://www.bloomberg.com/audio) - Financial markets news radio.
+- [KOA 850AM - Denver, Colorado](https://koanewsradio.iheart.com) - News/talk radio station in Denver, Colorado.
+- [WBBM 780AM - Chicago, Illinois](https://wbbm780.radio.com) - News/talk radio station in Chicago, Illinois.
+- [KMOX 1120AM - St. Louis, Missouri](https://kmox.radio.com) - News/talk radio station in St. Louis, Missouri.
 
 ### Websites
 
@@ -97,6 +109,14 @@ Online radio stations is one of the best and most effective ways to improve your
 - [The Late Late Show with James Corden](https://www.youtube.com/user/TheLateLateShow) - American late-night talk show hosted by James Corden on CBS.
 - [The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig) - American late-night talk show by Stephen Colbert on CBS.
 - [The Daily Show with Trevor Noah](https://www.youtube.com/channel/UCwWhs_6x42TyRM4Wstoq8HA) - American late-night talk show by Trevor Noah on Comedy Central
+
+### Tech Shows
+
+- [Bloomberg Technology](https://www.youtube.com/channel/UCrM7B7SL_g1edFOnmj-SDKg) - Bloomberg Technology focuses on the topics of technology, innovation and business.
+- [BBC Click](https://www.youtube.com/user/ClickBBC) - BBC Click is the BBC’s flagship technology programme.
+- [Sky News Swipe](https://www.youtube.com/playlist?list=PLG8IrydigQfckEQNNdxoPiQ0GtAJLP5_5) - Sky News`s tech show.
+- [FRANCE 24 Tech24](https://www.youtube.com/playlist?list=PLCUKIeZnrIUmpC0R31n7lXY__0iWEuPQ3) - Tech24 explores the digital revolution and check out the latest technological trends.
+
 
 ## Speaking
 
@@ -136,6 +156,7 @@ Conversation Exchange Websites are a fantastic idea and you can study english wi
 - [IMDB scripts](http://www.imsdb.com/) - Internet movie script database.
 - [Today I Found Out](http://www.todayifoundout.com/) - Daily interesting fact articles from various authors.
 - [Newsy](http://www.newsy.com/) - Short news with transcriptions.
+- [Engoo](https://engoo.com/app/daily-news) - Daily news for english learners
 
 ## Exercises and Tests
 
